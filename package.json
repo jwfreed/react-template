@@ -4,6 +4,8 @@
   "description": "react template",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server --mode development",
+    "build": "webpack --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jonathan Freed",
@@ -19,6 +21,7 @@
     "css-loader": "^3.2.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-hot-loader": "^4.12.15",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9",
