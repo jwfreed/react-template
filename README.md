@@ -11,5 +11,6 @@ _react-template_ is a lightweight React starter-kit configured with everything y
 -   eslint and prettier configs
 -   jest
 
-https://github.com/jonfreed256/react-template - automatic!
-[GitHub](https://github.com/jonfreed256/react-template)
+### Repo
+
+[GitHub/react-template](https://github.com/jonfreed256/react-template)
