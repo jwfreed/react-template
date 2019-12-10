@@ -1,6 +1,6 @@
 {
   "name": "@jonfreed256/react-template",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "this package is a react starter template without the weight of Create-React-App",
   "main": "index.js",
   "scripts": {
