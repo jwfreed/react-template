@@ -1,7 +1,7 @@
 {
-  "name": "baking-app-client",
+  "name": "react-template",
   "version": "1.0.0",
-  "description": "baking app client",
+  "description": "this package is a react starter template without the weight of Create-React-App",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
